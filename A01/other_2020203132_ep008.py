@@ -1,0 +1,1 @@
+# I could not find any algorithm that runned faster than mine. My code run on 0.00015s in average. My algorithm runs on O(N) and roughly 1800 operations i think.
